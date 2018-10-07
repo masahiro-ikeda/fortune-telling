@@ -5,8 +5,6 @@
 	id="WebApp_ID" version="3.1">
 	<display-name>fortune-telling-app</display-name>
 	<servlet>
-		<description>
-		</description>
 		<servlet-name>Fortune</servlet-name>
 		<servlet-class>work.Fortune</servlet-class>
 	</servlet>
